@@ -1,0 +1,11 @@
+1	chicken
+slow cooker
+pan
+
+2	boiled egg
+boiler
+
+3	biscuit
+oven
+bowl
+
