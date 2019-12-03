@@ -1,0 +1,42 @@
+'title': 'Slow Cooker Chicken and Dumplings',
+  'ingredients': ['4 skinless, boneless chicken breast halves ADVERTISEMENT',
+   '2 tablespoons butter ADVERTISEMENT',
+   '2 (10.75 ounce) cans condensed cream of chicken soup ADVERTISEMENT',
+   '1 onion, finely diced ADVERTISEMENT',
+   '2 (10 ounce) packages refrigerated biscuit dough, torn into pieces ADVERTISEMENT',
+   'ADVERTISEMENT'],
+  'instructions': 'Place the chicken, butter, soup, and onion in a slow cooker, and fill with enough water to cover.\nCover, and cook for 5 to 6 hours on High. About 30 minutes before serving, place the torn biscuit dough in the slow cooker. Cook until the dough is no longer raw in the center.\n',
+  
+  
+  possible generated nouns:
+  
+  chicken
+  butter
+  soup
+  onion
+  slow cooker ??
+  water
+  hours
+  minutes
+  serving
+  biscuit
+  dough
+  dough
+  center
+  
+  
+  after eliminating ingredients:
+  
+  slow cooker ??
+  water
+  hours
+  minutes
+  serving ??
+  biscuit
+  dough
+  center
+  
+  after some other work:
+  expected: slow cooker
+  
+  but it is very possible that we get only: cooker
