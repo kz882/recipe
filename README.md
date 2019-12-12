@@ -9,3 +9,9 @@ https://docs.google.com/document/d/1t-OUit0_8gzCLYjEm6W842YnzHa5gbPgcD7TOt4RpS0/
 
 # a very brief presentation 
 https://docs.google.com/presentation/d/1lKHCoXs0knMWjLObg0KTlftOdNFQwIQj9UuS81ePqQI/edit?usp=sharing
+
+# Mid-report - ??
+??
+
+# Part-Of-Speech guidelines for human annotaters
+https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
