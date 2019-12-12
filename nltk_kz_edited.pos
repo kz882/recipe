@@ -14,7 +14,7 @@ slow	JJ
 cooker	NN
 ,	,
 and	CC
-fill	NN
+fill	VB
 with	IN
 enough	JJ
 water	NN
@@ -22,10 +22,10 @@ to	TO
 cover	VB
 .	.
 
-Cover	NNP
+Cover	VB
 ,	,
 and	CC
-cook	NN
+cook	VB
 for	IN
 5	CD
 to	TO
@@ -41,7 +41,7 @@ minutes	NNS
 before	IN
 serving	VBG
 ,	,
-place	NN
+place	VB
 the	DT
 torn	JJ
 biscuit	NN
@@ -52,7 +52,7 @@ slow	JJ
 cooker	NN
 .	.
 
-Cook	NNP
+Cook	VB
 until	IN
 the	DT
 dough	NN
@@ -70,7 +70,7 @@ a	DT
 slow	JJ
 cooker	NN
 ,	,
-mix	JJ
+mix	VB
 cream	NN
 of	IN
 mushroom	NN
@@ -84,23 +84,23 @@ and	CC
 water	NN
 .	.
 
-Place	NNP
+Place	VB
 pot	NN
 roast	NN
 in	IN
 slow	JJ
 cooker	NN
 and	CC
-coat	NN
+coat	VB
 with	IN
 soup	JJ
 mixture	NN
 .	.
 
-Cook	NNP
+Cook	VB
 on	IN
 High	NNP
-setting	VBG
+setting	NN
 for	IN
 3	CD
 to	TO
@@ -110,7 +110,7 @@ hours	NNS
 or	CC
 on	IN
 Low	JJ
-setting	VBG
+setting	NN
 for	IN
 8	CD
 to	TO
@@ -118,19 +118,19 @@ to	TO
 hours	NNS
 .	.
 
-Preheat	NNP
+Preheat	VB
 oven	PRP
 to	TO
 350	CD
 degrees	NNS
 F	NNP
 (175	NNP
-degrees	VBZ
+degrees	NNS
 C)	NNP
 .	.
 
-Lightly	NNP
-grease	VBD
+Lightly	RB
+grease	VB
 a	DT
 5x9	CD
 inch	NN
@@ -151,7 +151,7 @@ prepared	JJ
 loaf	NN
 pan	NN
 and	CC
-spread	VBD
+spread	VB
 the	DT
 ketchup	NN
 over	IN
@@ -170,7 +170,7 @@ all	DT
 remaining	VBG
 ingredients	NNS
 and	CC
-shape	NN
+shape	VB
 into	IN
 a	DT
 loaf	NN
@@ -184,7 +184,7 @@ the	DT
 ketchup	NN
 .	.
 
-Bake	NNP
+Bake	VB
 in	IN
 preheated	JJ
 oven	NN
@@ -198,18 +198,18 @@ are	VBP
 clear	JJ
 .	.
 
-Preheat	NNP
-oven	PRP
+Preheat	VB
+oven	NN
 to	TO
 350	CD
 degrees	NNS
 F	NNP
 (175	NNP
-degrees	VBZ
+degrees	NNS
 C)	NNP
 .	.
 
-Cream	NNP
+Cream	VB
 together	RB
 the	DT
 butter	NN
@@ -224,23 +224,23 @@ until	IN
 smooth	JJ
 .	.
 
-Beat	NNP
+Beat	VB
 in	IN
 the	DT
-eggs	JJ
+eggs	NNS
 one	NN
 at	IN
 a	DT
 time	NN
 ,	,
 then	RB
-stir	NN
+stir	VB
 in	IN
 the	DT
 vanilla	NN
 .	.
 
-Dissolve	NNP
+Dissolve	VB
 baking	VBG
 soda	NN
 in	IN
@@ -248,15 +248,15 @@ hot	JJ
 water	NN
 .	.
 
-Add	NNP
+Add	VB
 to	TO
-batter	VB
+batter	NN
 along	IN
 with	IN
 salt	NN
 .	.
 
-Stir	NNP
+Stir	VB
 in	IN
 flour	NN
 ,	,
@@ -267,7 +267,7 @@ and	CC
 nuts	NNS
 .	.
 
-Drop	NN
+Drop	VB
 by	IN
 large	JJ
 spoonfuls	NNS
@@ -294,8 +294,8 @@ nicely	RB
 browned	VBN
 .	.
 
-Preheat	NNP
-oven	PRP
+Preheat	VB
+oven	NN
 to	TO
 350	CD
 degrees	NNS
@@ -305,7 +305,7 @@ F	NNP
 Line	VB
 a	DT
 2-quart	JJ
-casserole	JJ
+casserole	NNP
 dish	NN
 with	IN
 Reynolds	NNP
@@ -314,7 +314,7 @@ Pan	NNP
 Lining	NNP
 Paper	NNP
 ,	,
-parchment	JJ
+parchment	NN
 side	NN
 up	RB
 .	.
@@ -323,7 +323,7 @@ No	UH
 need	NN
 to	TO
 grease	VB
-dish	JJ
+dish	NN
 .	.
 
 Cook	VB
@@ -351,10 +351,10 @@ of	IN
 cooking	NN
 .	.
 
-Drain	NNP
+Drain	VB
 .	.
 
-Return	NNP
+Return	VB
 to	TO
 the	DT
 saucepan	NN
@@ -383,10 +383,10 @@ to	TO
 minutes	NNS
 or	CC
 until	IN
-tender	NN
+tender	JJ
 .	.
 
-Stir	NNP
+Stir	VB
 in	IN
 flour	NN
 ,	,
@@ -405,9 +405,9 @@ at	IN
 once	RB
 .	.
 
-Cook	NNP
+Cook	VB
 and	CC
-stir	NN
+stir	VB
 over	IN
 medium	NN
 heat	NN
@@ -415,10 +415,10 @@ until	IN
 slightly	RB
 thickened	VBN
 and	CC
-bubbly	RB
+bubbly	JJ
 .	.
 
-Add	NNP
+Add	VB
 cheddar	NN
 cheese	NN
 and	CC
@@ -431,7 +431,7 @@ melted	VBN
 .	.
 
 Pour	VB
-cheese	JJ
+cheese	NN
 sauce	NN
 over	IN
 the	DT
@@ -439,13 +439,13 @@ pasta	NN
 and	CC
 broccoli	NN
 and	CC
-stir	NN
+stir	VB
 until	IN
 well	RB
 combined	VBN
 .	.
 
-Melt	NNP
+Melt	VB
 the	DT
 remaining	VBG
 2	CD
@@ -470,19 +470,19 @@ mixture	NN
 to	TO
 the	DT
 prepared	JJ
-casserole	JJ
+casserole	NNP
 dish	NN
 .	.
 
-Top	JJ
+Top	VB
 with	IN
 the	DT
-buttery	NN
+buttery	JJ
 bread	NN
 crumbs	NN
 .	.
 
-Bake	NNP
+Bake	VB
 ,	,
 uncovered	VBD
 ,	,
@@ -491,7 +491,7 @@ about	IN
 minutes	NNS
 or	CC
 until	IN
-bubbly	RB
+bubbly	JJ
 and	CC
 internal	JJ
 temperature	NN

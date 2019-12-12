@@ -1,0 +1,25 @@
+slow cooker
+oven
+loaf pan
+mixing bowl -> NN NN
+casserole dish
+saucepan
+
+
+tablespoon
+skillet
+
+bowl
+high setting, medium heat
+
+* relevant considerations
+5*9 inch
+
+331 
+Reynolds	NNP
+Wrap(R)	NNP
+Pan	NNP
+Lining	NNP
+Paper	NNP
+
+244-245 BAKING SODA-> VBG?
