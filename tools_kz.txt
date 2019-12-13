@@ -5,7 +5,7 @@ mixing bowl -> NN NN
 casserole dish
 saucepan
 
-
+paper towels
 tablespoon
 skillet
 
@@ -23,3 +23,6 @@ Lining	NNP
 Paper	NNP
 
 244-245 BAKING SODA-> VBG?
+
+()
+;
