@@ -1,0 +1,147 @@
+51	Creamy Au Gratin Potatoes
+oven
+dish
+saucepan
+foil
+
+52	Garlic Chicken
+oven
+saucepan
+bowl
+dish
+oven
+
+53	Grilled Salmon I
+bowl
+bag
+
+54	Buffalo Chicken Dip
+skillet
+cooker
+
+55	Salsa Chicken
+oven
+dish
+
+56	Quick and Easy Alfredo Sauce
+saucepan
+oven
+bowl
+
+57	Chewy Chocolate Chip Oatmeal Cookies
+oven
+sheet
+rack
+dish
+
+58	Chicken Marsala
+bowl
+skillet
+pan
+
+59	Slow-Cooker Chicken Tortilla Soup
+cooker
+oven
+sheet
+
+60	Creamy Rice Pudding
+saucepan
+cup
+
+61	Banana Sour Cream Bread
+oven
+cup
+bowl
+
+62	Quinoa and Black Beans
+saucepan
+
+63	Easy Meatloaf
+oven
+
+64	Annie's Fruit Salsa and Cinnamon Chips
+bowl
+cracker
+pan
+dish
+
+65	Chicken Enchiladas II
+oven
+sheet
+dish
+saucepan
+cup
+bowl
+
+66	Slow Cooker Pulled Pork
+cooker
+
+67	Cream Cheese Frosting II
+bowl
+
+68	Beth's Spicy Oatmeal Raisin Cookies
+oven
+bowl
+container
+
+69	Maple Salmon
+bowl
+dish
+oven
+
+70	Slow Cooker Beef Stew I
+cooker
+bowl
+oven
+dish
+
+71	Brooke's Best Bombshell Brownies
+oven
+pan
+rack
+
+72	Fluffy French Toast
+bowl
+pan
+
+73	Slow Cooker Beef Stroganoff I
+cooker
+
+74	Soft Oatmeal Cookies
+bowl
+oven
+fork
+sheet
+rack
+
+75	Roast Sticky Chicken-Rotisserie Style
+bowl
+paper
+towel
+bag
+oven
+pan
+
+76	Salisbury Steak
+bowl
+cup
+
+77	Braised Balsamic Chicken
+skillet
+bowl
+
+78	Jamie's Cranberry Spinach Salad
+saucepan
+bowl
+
+79	Mouth-Watering Stuffed Mushrooms
+oven
+sheet
+paper
+towel
+skillet
+spoon
+
+80	Rosemary Ranch Chicken Kabobs
+bowl
+0000
