@@ -138,13 +138,13 @@ bowl
 79	Mouth-Watering Stuffed Mushrooms
 oven
 baking sheet
-paper towel
+paper
+towel
 skillet
 spoon
-cookie sheet
 
 80	Rosemary Ranch Chicken Kabobs
 bowl
 grill
 skewers
-grill
+0000

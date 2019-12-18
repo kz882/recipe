@@ -1,10 +1,10 @@
-51 Creamy Au Gratin Potatoes
+51	Creamy Au Gratin Potatoes
 oven
 saucepan
 whisk
 aluminum foil
 
-52 Garlic Chicken
+52	Garlic Chicken
 oven
 saucepan
 shallow bowl
@@ -12,110 +12,110 @@ tong
 baking dish
 instant-read thermometer
 
-53 Grilled Salmon I
+53	Grilled Salmon I
 bowl
 resealable plastic bag
 grill
 fork
 
-54 Buffalo Chicken Dip
+54	Buffalo Chicken Dip
 skillet
 slow cooker
 
-55 Salsa Chicken
+55	Salsa Chicken
 oven
 baking dish
 
-56 Quick and Easy Alfredo Sauce
+56	Quick and Easy Alfredo Sauce
 saucepan
 
-57 Chewy Chocolate Chip Oatmeal Cookies
+57	Chewy Chocolate Chip Oatmeal Cookies
 oven
 bowl
 baking sheet
 wire rack
 
-58 Chicken Marsala
+58	Chicken Marsala
 bowl
 skillet
 pan
 
-59 Slow-Cooker Chicken Tortilla Soup
+59	Slow-Cooker Chicken Tortilla Soup
 slow cooker
 oven
 baking sheet
 
-60 Creamy Rice Pudding
+60	Creamy Rice Pudding
 saucepan
 
-61 Banana Sour Cream Bread
+61	Banana Sour Cream Bread
 oven
 loaf pan
 bowl
 
-62 Quinoa and Black Beans
+62	Quinoa and Black Beans
 saucepan
 
-63 Easy Meatloaf
+63	Easy Meatloaf
 oven
 bowl
 loaf pan
 baking dish
 
-64 Annie's Fruit Salsa and Cinnamon Chips
+64	Annie's Fruit Salsa and Cinnamon Chips
 bowl
 oven
 baking sheet
 
-65 Chicken Enchiladas II
+65	Chicken Enchiladas II
 oven
 baking dish
 saucepan
 bowl
 
-66 Slow Cooker Pulled Pork
+66	Slow Cooker Pulled Pork
 slow cooker
 
-67 Cream Cheese Frosting II
+67	Cream Cheese Frosting II
 bowl
 
-68 Beth's Spicy Oatmeal Raisin Cookies
+68	Beth's Spicy Oatmeal Raisin Cookies
 oven
 bowl
 cookie sheet
 airtight container
 
-69 Maple Salmon
+69	Maple Salmon
 bowl
 glass baking dish
 oven
 
-70 Slow Cooker Beef Stew I
+70	Slow Cooker Beef Stew I
 slow cooker
 bowl
 
-71 Brooke's Best Bombshell Brownies
+71	Brooke's Best Bombshell Brownies
 oven
 baking dish
 bowl
 wire rack
 
-72 Fluffy French Toast
+72	Fluffy French Toast
 mixing bowl
 griddle
 frying pan
 
-73 Slow Cooker Beef Stroganoff I
+73	Slow Cooker Beef Stroganoff I
 slow cooker
 
-74 Soft Oatmeal Cookies
+74	Soft Oatmeal Cookies
 bowl
 oven
 cookie sheet
 baking sheet
 wire rack
 
-75 Roast Sticky Chicken-Rotisserie Style
+75	Roast Sticky Chicken-Rotisserie Style
 bowl
 paper towel
 resealable bag
@@ -123,28 +123,28 @@ plastic wrap
 oven
 roasting pan 
 
-76 Salisbury Steak
+76	Salisbury Steak
 bowl
 skillet
 
-77 Braised Balsamic Chicken
+77	Braised Balsamic Chicken
 skillet
 instant-read thermometer
 
-78 Jamie's Cranberry Spinach Salad
+78	Jamie's Cranberry Spinach Salad
 saucepan
 bowl
 
-79 Mouth-Watering Stuffed Mushrooms
+79	Mouth-Watering Stuffed Mushrooms
 oven
 baking sheet
-paper towel
+paper
+towel
 skillet
 spoon
-cookie sheet
 
-80 Rosemary Ranch Chicken Kabobs
+80	Rosemary Ranch Chicken Kabobs
 bowl
 grill
 skewers
-grill
+0000
