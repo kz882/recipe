@@ -1,0 +1,148 @@
+51	Creamy Au Gratin Potatoes
+oven
+saucepan
+seconds
+
+52	Garlic Chicken
+oven
+saucepan
+bowl
+instant-read
+
+53	Grilled Salmon I
+bowl
+grate
+
+54	Buffalo Chicken Dip
+skillet
+cooker
+
+55	Salsa Chicken
+oven
+Place
+
+56	Quick and Easy Alfredo Sauce
+saucepan
+
+57	Chewy Chocolate Chip Oatmeal Cookies
+wire
+oven
+
+58	Chicken Marsala
+bowl
+salt;
+spoonfuls
+oven
+wire
+skillet
+
+59	Slow-Cooker Chicken Tortilla Soup
+cooker
+oven
+
+60	Creamy Rice Pudding
+saucepan
+raisins;
+
+61	Banana Sour Cream Bread
+oven
+bowl
+
+62	Quinoa and Black Beans
+saucepan
+heat;
+minutes;
+
+63	Easy Meatloaf
+oven
+bowl
+
+64	Annie's Fruit Salsa and Cinnamon Chips
+bowl
+oven
+Repeat
+
+65	Chicken Enchiladas II
+oven
+saucepan
+Reserve
+3/4
+bowl
+
+66	Slow Cooker Pulled Pork
+cooker
+
+67	Cream Cheese Frosting II
+bowl
+confectioners'
+Store
+
+68	Beth's Spicy Oatmeal Raisin Cookies
+oven
+bowl
+salt;
+teaspoonfuls
+Store
+long!
+
+69	Maple Salmon
+bowl
+oven
+
+70	Slow Cooker Beef Stew I
+cooker
+bowl
+pepper;
+
+71	Brooke's Best Bombshell Brownies
+oven
+bowl
+
+72	Fluffy French Toast
+bowl
+oven
+wire
+Measure
+griddle
+
+73	Slow Cooker Beef Stroganoff I
+cooker
+
+74	Soft Oatmeal Cookies
+bowl
+cinnamon;
+oven
+wire
+
+75	Roast Sticky Chicken-Rotisserie Style
+bowl
+towel
+cavity
+oven
+
+76	Salisbury Steak
+bowl
+skillet
+
+77	Braised Balsamic Chicken
+skillet
+heat;
+instant-read
+
+78	Jamie's Cranberry Spinach Salad
+saucepan
+bowl
+
+79	Mouth-Watering Stuffed Mushrooms
+oven
+Clean
+towel
+break
+skillet
+care
+starts
+
+80	Rosemary Ranch Chicken Kabobs
+bowl
+refrigerate
+grate
